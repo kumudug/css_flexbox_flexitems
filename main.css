@@ -25,7 +25,6 @@ body {
     /*flex-flow: row wrap;*/
     align-items: center;
     justify-content: flex-start;
-    align-content: center;
   }
 
 .item-1 {
